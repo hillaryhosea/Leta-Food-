@@ -1,6 +1,7 @@
 import basket_icon from './basket_icon.png'
 import logo from './logo.jpg'
 import log from './log.png'
+import leta_food from './leta_food.png'
 import header_img from './header_img.png'
 import search_icon from './search_icon.png'
 import menu_1 from './menu_1.png'
@@ -81,7 +82,8 @@ export const assets = {
     logout_icon,
     bag_icon,
     parcel_icon,
-    log
+    log,
+    leta_food
 }
 
 export const menu_list = [
