@@ -45,10 +45,10 @@
 }
 
 @media (max-width:1050px) {
-    .header
+    /* .header
     {
         height: 40vw;
-    }
+    } */
     .header-content
     {
         max-width: 45%;
@@ -58,7 +58,7 @@
 @media (max-width:750px) {
     .header-content
     {
-        max-width: 65%;
+        max-width: 75%;
     }
     .header-content p 
     {
